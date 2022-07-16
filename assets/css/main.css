@@ -3212,6 +3212,7 @@ input, select, textarea {
 				padding: 2em 0 0 0;
 			}
 
+
 		/* Footer */
 
 			#footer {
@@ -3311,6 +3312,11 @@ input, select, textarea {
 			input[type="button"],
 			.button {
 				padding: 0;
+			}
+
+			#resumeSection {
+				width: 85%;
+				height: 975px;
 			}
 
 	}
